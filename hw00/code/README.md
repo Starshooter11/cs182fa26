@@ -10,7 +10,9 @@ are as follows:
 Make sure your machine is set up with the assignment dependencies.
 
 **[Option 1] Use Google Colab (Recommended):**
-The preferred approach to do this assignment is to use [Google Colab](https://colab.research.google.com/).
+The preferred approach to do this assignment is to use [Google Colab](https://colab.research.google.com/).  
+
+Once on Colab, log in, then click to `Upload Notebook` then `Github` then paste `https://github.com/Berkeley-CS182/cs182fa26_public/blob/main/hw00/code/networks.ipynb`
 
 
 **[Option 2] Use a local Conda environment:**
